@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@font-face {
+    font-family: a;
+    src: url(../../font/IRANSansLight.woff);
+}
